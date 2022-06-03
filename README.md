@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ![](https://activity-graph.herokuapp.com/graph?username=VaishnavyVS&theme=react-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnavyVS&count_private=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnavyVS&count_private=true&theme=algolia&align=center)
 
 ## My tech stack
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VaishnavyVS&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> -->
 <!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnavyVS&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> -->
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00"> -->
   <br>
   <br>
  </p>
