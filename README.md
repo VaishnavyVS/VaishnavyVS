@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **VaishnavyVS/VaishnavyVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnavyVS&count_private=true&theme=algolia)
-![](https://activity-graph.herokuapp.com/graph?username=VaishnavyVS&theme=react-dark)
 
 # Hello there I am Vaishnavy👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+![](https://activity-graph.herokuapp.com/graph?username=VaishnavyVS&theme=react-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnavyVS&count_private=true&theme=algolia)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
