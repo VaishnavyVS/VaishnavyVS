@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnavyVS&count_private=true&theme=algolia)
+![](https://activity-graph.herokuapp.com/graph?username=VaishnavyVS&theme=react-dark)
 
