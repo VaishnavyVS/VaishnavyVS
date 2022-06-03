@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ![](https://activity-graph.herokuapp.com/graph?username=VaishnavyVS&theme=react-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnavyVS&count_private=true&theme=algolia)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## My tech stack
 
