@@ -39,6 +39,10 @@ Here are some ideas to get you started:
     <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
   </a>
   &emsp;
+   <a> 
+    <img alt="Amazon" src="https://img.shields.io/badge/-azure-blue?logo=Azure&logoColor=white">
+  </a>
+  &emsp;
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
