@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
    <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-azure-blue?logo=Azure&logoColor=white">
+    <img alt="Amazon" src="https://img.shields.io/badge/-Azure-blue?logo=Azure&logoColor=white">
   </a>
   &emsp;
   <a>
