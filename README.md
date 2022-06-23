@@ -47,6 +47,10 @@ Here are some ideas to get you started:
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
   &emsp; 
+   <a>
+    <img alt="Git" src="https://img.shields.io/badge/-React-red?logo=React&logoColor=white"/>
+  </a>
+  &emsp; 
   <a> 
      <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
    </a>
