@@ -18,10 +18,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/VaishnavyVS/VaishnavyVS">
     <img src="https://komarev.com/ghpvc/?username=VaishnavyVS" alt="page views" />
   </a>
- 
-  <a href="https://stackoverflow.com/users/8995555/">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8995555?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/VaishnavyVS?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/VaishnavyVS?color=green&logo=github">
   </a>
