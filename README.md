@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# Hello there I am Vaishnavy👋
+# Hello there, I am Vaishnavy👋.
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
